@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C,C++ and Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me - at my email : nikitabhatnagar2017@gmail.com
+- 📫 How to reach me - just don't
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
